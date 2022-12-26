@@ -102,7 +102,6 @@ function categoryPage(){
 }
 
 function moviePage(){
-    console.log('estas en moive');
 
     headerSection.classList.add('header-container--long');
     //headerSection.style.background = '';
